@@ -9,3 +9,5 @@ The Meal Application is a web-based application developed using HTML, CSS, JavaS
 * Live search results as the user types in the search bar.
 * More details button to view additional information about a meal.
 * Add to favorites button to save a meal to the favorites list.
+
+# Screenshot
