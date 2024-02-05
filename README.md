@@ -14,4 +14,14 @@ The Meal Application is a web-based application developed using HTML, CSS, JavaS
 ## Home Page
 ![Screenshot (4)](https://github.com/Priyal267/Meal-Application/assets/75806233/f3a9f3fa-31c4-4604-a620-4e93157f176b)
 
+##More Details Page
+![Screenshot (6)](https://github.com/Priyal267/Meal-Application/assets/75806233/3aee112f-7738-47d0-ab6a-c647e84909a0)
+
+##Favorite List
+![Screenshot (7)](https://github.com/Priyal267/Meal-Application/assets/75806233/7aae8505-f4e1-43c3-9219-63e24c03e897)
+
+##Contact me
+![image](https://github.com/Priyal267/Meal-Application/assets/75806233/b75aab5b-4780-48a7-9cf8-0a66db485c28)
+
+
 
